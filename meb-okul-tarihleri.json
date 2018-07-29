@@ -1,10 +1,10 @@
 {
-  "ClosingTime": "08.06.2018 12:00",
-  "ClosingUnixTime": 1528459200,
-  "ClosingTimeText": "08 Haziran 2018",
-  "SomestrTime": "05.02.2018 12:00",
-  "SomestrUnixTime": 1517832000,
-  "SomestrTimeText": "05 Şubat 2018",
+  "ClosingTime": "14.06.2019 08:00",
+  "ClosingUnixTime": 1560499200,
+  "ClosingTimeText": "14 Haziran 2019",
+  "SomestrTime": "21.01.2019 00:00",
+  "SomestrUnixTime": 1548028800,
+  "SomestrTimeText": "21 Ocak 2019",
   "OpeningTime": "17.09.2018 08:00",
   "OpeningUnixTime": 1537171200,
   "OpeningTimeText": "17 Eylül 2018"
