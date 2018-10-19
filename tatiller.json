@@ -2,71 +2,81 @@
   {
     "icon": "fireworks",
     "title": "YILBAŞI",
-    "subtitle": "1 OCAK 2018 PAZARTESİ"
+    "subtitle": "1 OCAK 2019 SALI"
   },
   {
     "icon": "children",
     "title": "ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI",
-    "subtitle": "23 NİSAN 2018 PAZARTESİ"
+    "subtitle": "23 NİSAN 2019 SALI"
   },
   {
     "icon": "info",
     "title": "EMEK VE DAYANIŞMA GÜNÜ",
-    "subtitle": "1 MAYIS 2018 SALI"
+    "subtitle": "1 MAYIS 2019 ÇARŞAMBA"
   },
   {
     "icon": "trophy",
     "title": "ATATÜRK’Ü ANMA GENÇLİK VE SPOR BAYRAMI",
-    "subtitle": "1 MAYIS 2018 SALI"
+    "subtitle": "1 MAYIS 2019 PAZAR"
+  },
+  {
+    "icon": "candy",
+    "title": "RAMAZAN BAYRAMI AREFESİ (YARIM GÜN)",
+    "subtitle": "4 HAZİRAN 2019 SALI"
   },
   {
     "icon": "candy",
     "title": "RAMAZAN BAYRAMI 1. GÜN",
-    "subtitle": "15 HAZİRAN 2018 CUMA"
+    "subtitle": "5 HAZİRAN 2019 ÇARŞAMBA"
   },
   {
     "icon": "candy",
     "title": "RAMAZAN BAYRAMI 2. GÜN",
-    "subtitle": "16 HAZİRAN 2018 CUMARTESİ"
+    "subtitle": "6 HAZİRAN 2019 PERŞEMBE"
   },
   {
     "icon": "candy",
     "title": "RAMAZAN BAYRAMI 3. GÜN",
-    "subtitle": "17 HAZİRAN 2018 PAZAR"
+    "subtitle": "7 HAZİRAN 2019 CUMA"
   },
   {
-    "icon": "info",
-    "title": "15 TEMMUZ DEMOKRASİ VE MİLLİ BİRLİK GÜNÜ",
-    "subtitle": "15 TEMMUZ 2018 PAZAR"
+    "icon": "cow",
+    "title": "KURBAN BAYRAMI AREFESİ",
+    "subtitle": "10 AĞUSTOS 2019 CUMARTESİ"
   },
   {
     "icon": "cow",
     "title": "KURBAN BAYRAMI 1. GÜN",
-    "subtitle": "21 AĞUSTOS  2018 SALI"
+    "subtitle": "11 AĞUSTOS 2019 PAZAR"
   },
   {
     "icon": "cow",
     "title": "KURBAN BAYRAMI 2. GÜN",
-    "subtitle": "22 AĞUSTOS  2018 ÇARŞAMBA"
+    "subtitle": "12 AĞUSTOS 2019 PAZARTESİ"
   },
   {
     "icon": "cow",
     "title": "KURBAN BAYRAMI 3. GÜN",
-    "subtitle": "23 AĞUSTOS  2018 PERŞEMBE"
+    "subtitle": "13 AĞUSTOS 2019 SALI"
   },
   {
     "icon": "cow",
     "title": "KURBAN BAYRAMI 4. GÜN",
-    "subtitle": "24 AĞUSTOS  2018 CUMA"
+    "subtitle": "14 AĞUSTOS 2019 ÇARŞAMBA"
   },
   {
     "icon": "motivation",
     "title": "ZAFER BAYRAMI",
-    "subtitle": "30 AĞUSTOS 2018 PERŞEMBE"
+    "subtitle": "30 AĞUSTOS 2019 CUMA"
+  },
+  {
+    "icon": "courthouse",
+    "title": "CUMHURİYET BAYRAMI AREFESİ",
+    "subtitle": "28 EKİM 2019 PAZARTESİ"
   },
   {
     "icon": "courthouse",
     "title": "CUMHURİYET BAYRAMI",
-    "subtitle": "29 EKİM 2018 PAZAR"
+    "subtitle": "29 EKİM 2019 SALI"
   }
 ]
