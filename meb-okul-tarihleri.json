@@ -1,11 +1,11 @@
 {
-  "ClosingTime": "14.06.2019 00:00",
-  "ClosingUnixTime": 1560470400,
-  "ClosingTimeText": "14 Haziran 2019",
-  "SomestrTime": "21.01.2019 00:00",
-  "SomestrUnixTime": 1548028800,
-  "SomestrTimeText": "21 Ocak 2019",
-  "OpeningTime": "16.09.2019 08:00",
-  "OpeningUnixTime": 1568620800,
-  "OpeningTimeText": "16 Eylül 2019"
+  "ClosingTime": "19.06.2020 00:00",
+  "ClosingUnixTime": 1592524800,
+  "ClosingTimeText": "19 Haziran 2020",
+  "SomestrTime": "17.01.2020 00:00",
+  "SomestrUnixTime": 1579219200,
+  "SomestrTimeText": "17 Ocak 2020",
+  "OpeningTime": "09.09.2019 08:00",
+  "OpeningUnixTime": 1568016000,
+  "OpeningTimeText": "9 Eylül 2019"
 }
