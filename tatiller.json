@@ -2,81 +2,76 @@
   {
     "icon": "fireworks",
     "title": "YILBAŞI",
-    "subtitle": "1 OCAK 2019 SALI"
+    "subtitle": "1 OCAK 2020 ÇARŞAMBA"
   },
   {
     "icon": "children",
     "title": "ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI",
-    "subtitle": "23 NİSAN 2019 SALI"
+    "subtitle": "23 NİSAN 2020 PERŞEMBE"
   },
   {
     "icon": "info",
     "title": "EMEK VE DAYANIŞMA GÜNÜ",
-    "subtitle": "1 MAYIS 2019 ÇARŞAMBA"
+    "subtitle": "1 MAYIS 2020 CUMA"
   },
   {
     "icon": "trophy",
     "title": "ATATÜRK’Ü ANMA GENÇLİK VE SPOR BAYRAMI",
-    "subtitle": "19 MAYIS 2019 PAZAR"
-  },
-  {
-    "icon": "candy",
-    "title": "RAMAZAN BAYRAMI AREFESİ",
-    "subtitle": "4 HAZİRAN 2019 SALI"
+    "subtitle": "19 MAYIS 2020 SALI"
   },
   {
     "icon": "candy",
     "title": "RAMAZAN BAYRAMI 1. GÜN",
-    "subtitle": "5 HAZİRAN 2019 ÇARŞAMBA"
+    "subtitle": "23 MAYIS 2020 CUMARTESİ"
   },
   {
     "icon": "candy",
     "title": "RAMAZAN BAYRAMI 2. GÜN",
-    "subtitle": "6 HAZİRAN 2019 PERŞEMBE"
+    "subtitle": "24 MAYIS 2020 PAZAR"
   },
   {
     "icon": "candy",
     "title": "RAMAZAN BAYRAMI 3. GÜN",
-    "subtitle": "7 HAZİRAN 2019 CUMA"
+    "subtitle": "25 MAYIS 2020 PAZARTESİ"
+  },
+  {
+    "icon": "candy",
+    "title": "RAMAZAN BAYRAMI 4. GÜN",
+    "subtitle": "26 MAYIS 2020 SALI"
   },
   {
     "icon": "cow",
     "title": "KURBAN BAYRAMI AREFESİ",
-    "subtitle": "10 AĞUSTOS 2019 CUMARTESİ"
+    "subtitle": "30 TEMMUZ 2020 PERŞEMBE"
   },
   {
     "icon": "cow",
     "title": "KURBAN BAYRAMI 1. GÜN",
-    "subtitle": "11 AĞUSTOS 2019 PAZAR"
+    "subtitle": "31 TEMMUZ 2020 CUMA"
   },
   {
     "icon": "cow",
     "title": "KURBAN BAYRAMI 2. GÜN",
-    "subtitle": "12 AĞUSTOS 2019 PAZARTESİ"
+    "subtitle": "1 AĞUSTOS 2020 CUMARTESİ"
   },
   {
     "icon": "cow",
     "title": "KURBAN BAYRAMI 3. GÜN",
-    "subtitle": "13 AĞUSTOS 2019 SALI"
+    "subtitle": "2 AĞUSTOS 2020 PAZAR"
   },
   {
     "icon": "cow",
     "title": "KURBAN BAYRAMI 4. GÜN",
-    "subtitle": "14 AĞUSTOS 2019 ÇARŞAMBA"
+    "subtitle": "3 AĞUSTOS 2020 PAZARTESİ"
   },
   {
     "icon": "motivation",
     "title": "ZAFER BAYRAMI",
-    "subtitle": "30 AĞUSTOS 2019 CUMA"
-  },
-  {
-    "icon": "courthouse",
-    "title": "CUMHURİYET BAYRAMI AREFESİ",
-    "subtitle": "28 EKİM 2019 PAZARTESİ"
+    "subtitle": "30 AĞUSTOS 2020 PAZAR"
   },
   {
     "icon": "courthouse",
     "title": "CUMHURİYET BAYRAMI",
-    "subtitle": "29 EKİM 2019 SALI"
+    "subtitle": "29 EKİM 2020 ÇARŞAMBA"
   }
 ]
